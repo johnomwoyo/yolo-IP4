@@ -26,3 +26,4 @@ Use vagrant up --provison command
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a08b6d92-01d2-4d8f-9925-c75725c60672" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ea12542a-9979-4ef8-89d7-48cc2a1f38af" />
