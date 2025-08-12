@@ -13,3 +13,5 @@ Install the docker engine here:
 
 ## How to run the app
 Use vagrant up --provison command
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/398664db-5761-4600-a219-fa094978fb04" />
