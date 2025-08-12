@@ -31,13 +31,26 @@ spec:
               key: MONGODB_URI
         - name: NODE_ENV
           value: "production"
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "256Mi"
+            cpu: "200m"
 ---
 apiVersion: v1
 kind: Service
 metadata:
   name: backend-service
+  labels:
+    app: backend
 spec:
   type: ClusterIP
   ports:
   - port: 5000
     targetPort: 5000
+    protocol: TCP
+  selector:
+    app: backend
+    tier: api
