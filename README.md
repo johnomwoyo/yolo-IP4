@@ -15,3 +15,6 @@ Install the docker engine here:
 Use vagrant up --provison command
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/398664db-5761-4600-a219-fa094978fb04" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/daf2c76f-9610-44dc-a4ec-18f3f11b4ee9" />
+
