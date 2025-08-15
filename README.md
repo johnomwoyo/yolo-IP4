@@ -32,4 +32,7 @@ Use vagrant up --provison command
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d45efac3-3a85-4504-be6d-1edad18e0d90" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7a2d2c46-92f8-4f99-8aa7-d7ffdf82c010" />
+
+
 
