@@ -34,5 +34,8 @@ Use vagrant up --provison command
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7a2d2c46-92f8-4f99-8aa7-d7ffdf82c010" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/398d3e09-6c80-440b-b6d6-269c90389d66" />
+
+
 
 
